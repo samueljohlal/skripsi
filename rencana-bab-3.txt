@@ -3,5 +3,7 @@ Rencana bahasan BAB 3
 - Persamaan Poisson
   - penurunan 
   - penerapan
+- gauss seidel
 - Metode Numerik
-- supervised learning
+- CNN
+- machine learning general

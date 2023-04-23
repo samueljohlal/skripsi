@@ -7,4 +7,3 @@ Rencana bahasan BAB 3
 - Metode Numerik
 - CNN
 - machine learning general
-

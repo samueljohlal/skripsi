@@ -5,3 +5,4 @@ Rencana bahasan BAB 3
   - penerapan
 - Metode Numerik
 - CNN
+- supervised learning

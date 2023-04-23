@@ -1,0 +1,4 @@
+Rencana bahasan BAB 3
+
+- Persamaan Poisson
+- Metode Numerik

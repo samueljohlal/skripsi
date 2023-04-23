@@ -1,2 +1,7 @@
 Tentang Skripsi Sammy:
 - CNN for Poissson
+- Pake CNN untuk menyelesaikan Poisson
+
+Progress:
+-
+- 

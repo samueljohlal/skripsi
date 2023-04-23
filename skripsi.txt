@@ -3,5 +3,5 @@ Tentang Skripsi Sammy:
 - Pake CNN untuk menyelesaikan Poisson
 
 Progress:
--
+- selesai BAB 3
 - 

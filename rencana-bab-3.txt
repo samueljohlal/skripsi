@@ -1,4 +1,6 @@
 Rencana bahasan BAB 3
 
 - Persamaan Poisson
+  - penurunan 
+  - penerapan
 - Metode Numerik

@@ -1,0 +1,2 @@
+Tentang Skripsi Sammy:
+- CNN for Poissson
